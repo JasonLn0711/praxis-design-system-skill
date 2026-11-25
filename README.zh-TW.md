@@ -42,7 +42,7 @@ python3 skills/praxis-design-system/scripts/shortlist.py museum-gallery --mode l
 
 ## 圖解範例
 
-八個示意情境。點開任一圖片即可查看原尺寸 SVG。
+八個示意情境。點開任一圖片即可查看原尺寸 SVG。 [範例說明](docs/releases/2026-11-25-diagram-showcase.md)
 
 <p>
   <a href="docs/examples/exploded-sensor.svg"><img src="docs/examples/exploded-sensor.svg" width="395" alt="軸測爆炸圖 — 看清空氣品質感測器的四層組件。"></a>

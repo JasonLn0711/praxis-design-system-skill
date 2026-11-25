@@ -42,7 +42,7 @@ python3 skills/praxis-design-system/scripts/shortlist.py museum-gallery --mode l
 
 ## Diagram showcase
 
-Eight fictional scenarios. Select any image to open the full-size SVG.
+Eight fictional scenarios. Select any image to open the full-size SVG. [Example notes](docs/releases/2026-11-25-diagram-showcase.md)
 
 <p>
   <a href="docs/examples/exploded-sensor.svg"><img src="docs/examples/exploded-sensor.svg" width="395" alt="Axonometric teardown — How four components stack inside an air quality sensor."></a>
