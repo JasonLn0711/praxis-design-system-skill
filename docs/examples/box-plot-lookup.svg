@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="370" viewBox="0 0 680 370"
+     role="img" aria-labelledby="title desc" font-family="system-ui, sans-serif">
+  <title id="title">Lookup time box plots</title>
+  <desc id="desc">Times in minutes for search, filter, browse and asking staff. The median is respectively six, five, ten and four minutes. Whiskers mark example minima and maxima; boxes span the first to third quartile.</desc>
+  <rect width="680" height="370" fill="#27192d"/>
+  <path d="M175 40v250" stroke="#624366" stroke-width="1.25"/>
+  <text x="175" y="315" fill="#ffd5ef" font-size="16" text-anchor="middle" font-weight="550">0</text>
+  <path d="M285 40v250" stroke="#624366" stroke-width="1.25"/>
+  <text x="285" y="315" fill="#ffd5ef" font-size="16" text-anchor="middle" font-weight="550">5</text>
+  <path d="M395 40v250" stroke="#624366" stroke-width="1.25"/>
+  <text x="395" y="315" fill="#ffd5ef" font-size="16" text-anchor="middle" font-weight="550">10</text>
+  <path d="M505 40v250" stroke="#624366" stroke-width="1.25"/>
+  <text x="505" y="315" fill="#ffd5ef" font-size="16" text-anchor="middle" font-weight="550">15</text>
+  <path d="M615 40v250" stroke="#624366" stroke-width="1.25"/>
+  <text x="615" y="315" fill="#ffd5ef" font-size="16" text-anchor="middle" font-weight="550">20</text>
+  <path d="M175 290h440" stroke="#e9a5d5" stroke-width="1.5"/>
+  <text x="395" y="347" fill="#ffd5ef" font-size="17" text-anchor="middle" font-weight="550">Minutes</text>
+  <text x="155" y="72" fill="#ffd5ef" font-size="18" text-anchor="end" font-weight="650">Search</text>
+  <path d="M219 66H417M219 57v18m198 -18v18" fill="none" stroke="#ffb2de" stroke-width="2"/>
+  <rect x="263" y="53" width="88" height="26" fill="#e77fb7" stroke="#ffb2de" stroke-width="1.7"/>
+  <path d="M307 53v26" stroke="#321b36" stroke-width="3"/>
+  <text x="155" y="136" fill="#ffd5ef" font-size="18" text-anchor="end" font-weight="650">Filter</text>
+  <path d="M197 130H417M197 121v18m220 -18v18" fill="none" stroke="#ffb2de" stroke-width="2"/>
+  <rect x="241" y="117" width="88" height="26" fill="#e77fb7" stroke="#ffb2de" stroke-width="1.7"/>
+  <path d="M285 117v26" stroke="#321b36" stroke-width="3"/>
+  <text x="155" y="200" fill="#ffd5ef" font-size="18" text-anchor="end" font-weight="650">Browse</text>
+  <path d="M263 194H571M263 185v18m308 -18v18" fill="none" stroke="#ffb2de" stroke-width="2"/>
+  <rect x="329" y="181" width="132" height="26" fill="#e77fb7" stroke="#ffb2de" stroke-width="1.7"/>
+  <path d="M395 181v26" stroke="#321b36" stroke-width="3"/>
+  <text x="155" y="264" fill="#ffd5ef" font-size="18" text-anchor="end" font-weight="650">Ask staff</text>
+  <path d="M197 258H483M197 249v18m286 -18v18" fill="none" stroke="#ffb2de" stroke-width="2"/>
+  <rect x="241" y="245" width="110" height="26" fill="#e77fb7" stroke="#ffb2de" stroke-width="1.7"/>
+  <path d="M263 245v26" stroke="#321b36" stroke-width="3"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="370" viewBox="0 0 680 370"
+     role="img" aria-labelledby="title desc" font-family="system-ui, sans-serif">
+  <title id="title">Publishing flowchart</title>
+  <desc id="desc">Start with a draft. Publish if it is ready. Otherwise revise and return to the draft.</desc>
+  <rect width="680" height="370" fill="#edf2ff"/>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" orient="auto">
+      <path d="m1 1 8 4-8 4Z" fill="#3559a1"/>
+    </marker>
+  </defs>
+  <g fill="none" stroke="#3559a1" stroke-width="2.5" marker-end="url(#arrow)">
+    <path d="M162 176h39"/>
+    <path d="M339 176h131"/>
+    <path d="M270 237v42"/>
+    <path d="M211 303H119a16 16 0 0 1-16-16v-80"/>
+  </g>
+  <g stroke="#3559a1" stroke-width="2">
+    <rect x="45" y="147" width="117" height="58" rx="29" fill="#dce6ff"/>
+    <path d="m270 114 69 62-69 62-69-62Z" fill="#f8faff"/>
+    <rect x="472" y="147" width="150" height="58" rx="29" fill="#304f9b"/>
+    <rect x="212" y="281" width="116" height="45" rx="8" fill="#dce6ff"/>
+  </g>
+  <text x="103.5" y="182" fill="#253c79" font-size="19" text-anchor="middle" font-weight="650">Draft</text>
+  <text x="270" y="182" fill="#253c79" font-size="19" text-anchor="middle" font-weight="650">Ready?</text>
+  <text x="547" y="182" fill="#ffffff" font-size="19" text-anchor="middle" font-weight="650">Publish</text>
+  <text x="270" y="310" fill="#253c79" font-size="19" text-anchor="middle" font-weight="650">Revise</text>
+  <text x="396" y="162" fill="#253c79" font-size="16" text-anchor="middle" font-weight="550">Yes</text>
+  <text x="285" y="262" fill="#253c79" font-size="16" text-anchor="start" font-weight="550">No</text>
+</svg>

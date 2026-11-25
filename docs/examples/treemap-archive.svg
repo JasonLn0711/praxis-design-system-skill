@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="370" viewBox="0 0 680 370"
+     role="img" aria-labelledby="title desc" font-family="system-ui, sans-serif">
+  <title id="title">Archive storage treemap</title>
+  <desc id="desc">Rectangle areas represent 100 GB of archive storage: photos 30 GB, audio 18 GB, video 25 GB, scans 15 GB and text 12 GB.</desc>
+  <rect width="680" height="370" fill="#f6ebff"/>
+  <rect x="37.00" y="35.00" width="290.88" height="187.50" fill="#593597" stroke="#f6ebff" stroke-width="3"/>
+  <text x="52" y="66" fill="#ffffff" font-size="19" text-anchor="start" font-weight="700">Photos</text>
+  <text x="52" y="92" fill="#ffffff" font-size="17" text-anchor="start" font-weight="550">30 GB</text>
+  <rect x="37.00" y="222.50" width="290.88" height="112.50" fill="#763d9f" stroke="#f6ebff" stroke-width="3"/>
+  <text x="52" y="253.5" fill="#ffffff" font-size="19" text-anchor="start" font-weight="700">Audio</text>
+  <text x="52" y="279.5" fill="#ffffff" font-size="17" text-anchor="start" font-weight="550">18 GB</text>
+  <rect x="327.88" y="35.00" width="315.12" height="144.23" fill="#ab315b" stroke="#f6ebff" stroke-width="3"/>
+  <text x="342.88" y="66" fill="#ffffff" font-size="19" text-anchor="start" font-weight="700">Video</text>
+  <text x="342.88" y="92" fill="#ffffff" font-size="17" text-anchor="start" font-weight="550">25 GB</text>
+  <rect x="327.88" y="179.23" width="175.07" height="155.77" fill="#15636a" stroke="#f6ebff" stroke-width="3"/>
+  <text x="342.88" y="210.231" fill="#ffffff" font-size="19" text-anchor="start" font-weight="700">Scans</text>
+  <text x="342.88" y="236.231" fill="#ffffff" font-size="17" text-anchor="start" font-weight="550">15 GB</text>
+  <rect x="502.95" y="179.23" width="140.05" height="155.77" fill="#314a82" stroke="#f6ebff" stroke-width="3"/>
+  <text x="517.947" y="210.231" fill="#ffffff" font-size="19" text-anchor="start" font-weight="700">Text</text>
+  <text x="517.947" y="236.231" fill="#ffffff" font-size="17" text-anchor="start" font-weight="550">12 GB</text>
+</svg>

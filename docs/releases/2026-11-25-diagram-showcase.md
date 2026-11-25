@@ -2,16 +2,18 @@
 
 圖庫讓評估 Praxis 的讀者快速辨認適用的圖型，再點開原圖查看資料如何轉成圖形。Jason 提出八種較少見的例圖，並指定 README 以讀者需要的資訊為主。Praxis 保存原創 SVG、中英文入口和驗收證據。 [繁體中文圖庫](../../README.zh-TW.md#圖解範例) · [English showcase](../../README.md#diagram-showcase) · [圖解選型指引](../../skills/praxis-design-system/references/design-decisions.md#diagrams)
 
+## 初版圖庫
+
 | 原圖 | 讀者可核對的內容 |
 | --- | --- |
-| [感測器軸測爆炸圖](../examples/exploded-sensor.svg) | 四層組件沿同一軸對齊，讀者可循組裝順序理解裝置。 |
-| [博物館服務藍圖](../examples/service-blueprint-museum.svg) | 訪客、前台、後台和支援角色對齊四個階段。可見線標出訪客看得到的工作範圍。 |
-| [維修咖啡館桑基圖](../examples/sankey-repair-cafe.svg) | 100 件物品分到 48 件修好、27 件待零件、17 件轉介及 8 件回收。流帶寬度與件數成正比。 |
-| [典藏平台 Wardley 地圖](../examples/wardley-archive.svg) | 沿使用者可見性和供應成熟度排列能力，指出可自建與可沿用的部分。 |
-| [雙語文章事件建模圖](../examples/event-modeling-publishing.svg) | 把送審、核准及發布分成三階段，逐一連結命令、事件和讀取介面。 |
-| [電子展覽需求追溯圖](../examples/traceability-accessibility.svg) | 字幕和鍵盤操作有測試入口，逐字稿清楚標為缺少驗證。 |
-| [巡迴展排程網路圖](../examples/schedule-touring-exhibit.svg) | 關鍵路徑 A → B → D → F 為 10 天，標籤作業鏈有 3 天餘裕。 |
-| [圖書館入館極座標圖](../examples/polar-library.svg) | 六個連續四小時窗口共用線性半徑，12:00–16:00 的 112 人次為尖峰。 |
+| [感測器軸測爆炸圖](https://github.com/JasonLn0711/praxis-design-system-skill/blob/a7b5ee5643036c8d4e33cc6ef9b99be70d6545c5/docs/examples/exploded-sensor.svg) | 四層組件沿同一軸對齊，讀者可循組裝順序理解裝置。 |
+| [博物館服務藍圖](https://github.com/JasonLn0711/praxis-design-system-skill/blob/a7b5ee5643036c8d4e33cc6ef9b99be70d6545c5/docs/examples/service-blueprint-museum.svg) | 訪客、前台、後台和支援角色對齊四個階段。可見線標出訪客看得到的工作範圍。 |
+| [維修咖啡館桑基圖](https://github.com/JasonLn0711/praxis-design-system-skill/blob/a7b5ee5643036c8d4e33cc6ef9b99be70d6545c5/docs/examples/sankey-repair-cafe.svg) | 100 件物品分到 48 件修好、27 件待零件、17 件轉介及 8 件回收。流帶寬度與件數成正比。 |
+| [典藏平台 Wardley 地圖](https://github.com/JasonLn0711/praxis-design-system-skill/blob/a7b5ee5643036c8d4e33cc6ef9b99be70d6545c5/docs/examples/wardley-archive.svg) | 沿使用者可見性和供應成熟度排列能力，指出可自建與可沿用的部分。 |
+| [雙語文章事件建模圖](https://github.com/JasonLn0711/praxis-design-system-skill/blob/a7b5ee5643036c8d4e33cc6ef9b99be70d6545c5/docs/examples/event-modeling-publishing.svg) | 把送審、核准及發布分成三階段，逐一連結命令、事件和讀取介面。 |
+| [電子展覽需求追溯圖](https://github.com/JasonLn0711/praxis-design-system-skill/blob/a7b5ee5643036c8d4e33cc6ef9b99be70d6545c5/docs/examples/traceability-accessibility.svg) | 字幕和鍵盤操作有測試入口，逐字稿清楚標為缺少驗證。 |
+| [巡迴展排程網路圖](https://github.com/JasonLn0711/praxis-design-system-skill/blob/a7b5ee5643036c8d4e33cc6ef9b99be70d6545c5/docs/examples/schedule-touring-exhibit.svg) | 關鍵路徑 A → B → D → F 為 10 天，標籤作業鏈有 3 天餘裕。 |
+| [圖書館入館極座標圖](https://github.com/JasonLn0711/praxis-design-system-skill/blob/a7b5ee5643036c8d4e33cc6ef9b99be70d6545c5/docs/examples/polar-library.svg) | 六個連續四小時窗口共用線性半徑，12:00–16:00 的 112 人次為尖峰。 |
 
 ## 發布與驗收
 

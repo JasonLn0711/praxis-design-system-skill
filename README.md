@@ -42,26 +42,26 @@ python3 skills/praxis-design-system/scripts/shortlist.py museum-gallery --mode l
 
 ## Diagram showcase
 
-Eight fictional scenarios. Select any image to open the full-size SVG. [Example notes](docs/releases/2026-11-25-diagram-showcase.md)
+Select any chart to open its full-size SVG.
 
 <p>
-  <a href="docs/examples/exploded-sensor.svg"><img src="docs/examples/exploded-sensor.svg" width="395" alt="Axonometric teardown — How four components stack inside an air quality sensor."></a>
-  <a href="docs/examples/service-blueprint-museum.svg"><img src="docs/examples/service-blueprint-museum.svg" width="395" alt="Service blueprint — Follow a museum loan from pickup to cleaning and recharging."></a>
+  <a href="docs/examples/flowchart-publishing.svg"><img src="docs/examples/flowchart-publishing.svg" width="395" alt="Flowchart. A draft is either published or sent back for revision."></a>
+  <a href="docs/examples/exploded-sensor.svg"><img src="docs/examples/exploded-sensor.svg" width="395" alt="Exploded axonometric view. Four aligned layers of an air quality sensor."></a>
 </p>
 
 <p>
-  <a href="docs/examples/sankey-repair-cafe.svg"><img src="docs/examples/sankey-repair-cafe.svg" width="395" alt="Sankey diagram — Trace 100 repair items across four outcomes."></a>
-  <a href="docs/examples/wardley-archive.svg"><img src="docs/examples/wardley-archive.svg" width="395" alt="Wardley map — See which archive capabilities to build and which to reuse."></a>
+  <a href="docs/examples/calendar-reading-room.svg"><img src="docs/examples/calendar-reading-room.svg" width="395" alt="Calendar heatmap. Saturdays draw the most visits across twelve weeks."></a>
+  <a href="docs/examples/box-plot-lookup.svg"><img src="docs/examples/box-plot-lookup.svg" width="395" alt="Box plots. Compare the spread of lookup times across four methods."></a>
 </p>
 
 <p>
-  <a href="docs/examples/event-modeling-publishing.svg"><img src="docs/examples/event-modeling-publishing.svg" width="395" alt="Event modeling — See how publishing commands update the review queue and public index."></a>
-  <a href="docs/examples/traceability-accessibility.svg"><img src="docs/examples/traceability-accessibility.svg" width="395" alt="Requirement traceability — Find the exhibit’s missing accessibility verification."></a>
+  <a href="docs/examples/polar-library.svg"><img src="docs/examples/polar-library.svg" width="395" alt="Polar chart. The busiest four-hour window is noon to 4 p.m., with 112 visits."></a>
+  <a href="docs/examples/contours-hill.svg"><img src="docs/examples/contours-hill.svg" width="395" alt="Contour map. The summit is at 548 meters, with contours every 100 meters."></a>
 </p>
 
 <p>
-  <a href="docs/examples/schedule-touring-exhibit.svg"><img src="docs/examples/schedule-touring-exhibit.svg" width="395" alt="Schedule network — See which chain fixes the opening date and where there is float."></a>
-  <a href="docs/examples/polar-library.svg"><img src="docs/examples/polar-library.svg" width="395" alt="Polar chart — Spot the busiest four-hour window at a 24-hour library."></a>
+  <a href="docs/examples/slope-accessibility.svg"><img src="docs/examples/slope-accessibility.svg" width="395" alt="Slope chart. Caption availability rises from 66% to 85%, while audio declines."></a>
+  <a href="docs/examples/treemap-archive.svg"><img src="docs/examples/treemap-archive.svg" width="395" alt="Treemap. Photos account for 30 GB of the 100 GB archive."></a>
 </p>
 
 ## Design library

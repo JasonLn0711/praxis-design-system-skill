@@ -42,26 +42,26 @@ python3 skills/praxis-design-system/scripts/shortlist.py museum-gallery --mode l
 
 ## 圖解範例
 
-八個示意情境。點開任一圖片即可查看原尺寸 SVG。 [範例說明](docs/releases/2026-11-25-diagram-showcase.md)
+點開任一圖表即可查看 SVG 原圖。
 
 <p>
-  <a href="docs/examples/exploded-sensor.svg"><img src="docs/examples/exploded-sensor.svg" width="395" alt="軸測爆炸圖 — 看清空氣品質感測器的四層組件。"></a>
-  <a href="docs/examples/service-blueprint-museum.svg"><img src="docs/examples/service-blueprint-museum.svg" width="395" alt="服務藍圖 — 看見導覽設備從借出到清潔、充電的前後台工作。"></a>
+  <a href="docs/examples/flowchart-publishing.svg"><img src="docs/examples/flowchart-publishing.svg" width="395" alt="流程圖。草稿審查後可發布，或退回修改。"></a>
+  <a href="docs/examples/exploded-sensor.svg"><img src="docs/examples/exploded-sensor.svg" width="395" alt="軸測爆炸圖。空氣品質感測器沿組裝軸分成四層。"></a>
 </p>
 
 <p>
-  <a href="docs/examples/sankey-repair-cafe.svg"><img src="docs/examples/sankey-repair-cafe.svg" width="395" alt="桑基圖 — 追蹤 100 件物品如何分流至四種處理結果。"></a>
-  <a href="docs/examples/wardley-archive.svg"><img src="docs/examples/wardley-archive.svg" width="395" alt="Wardley 地圖 — 辨認研究資料典藏平台該自建與可沿用的能力。"></a>
+  <a href="docs/examples/calendar-reading-room.svg"><img src="docs/examples/calendar-reading-room.svg" width="395" alt="日曆熱圖。十二週的閱覽室造訪以週六最集中。"></a>
+  <a href="docs/examples/box-plot-lookup.svg"><img src="docs/examples/box-plot-lookup.svg" width="395" alt="箱型圖。比較四種查找方式的耗時分布。"></a>
 </p>
 
 <p>
-  <a href="docs/examples/event-modeling-publishing.svg"><img src="docs/examples/event-modeling-publishing.svg" width="395" alt="事件建模圖 — 追蹤出版指令如何更新審稿佇列與公開索引。"></a>
-  <a href="docs/examples/traceability-accessibility.svg"><img src="docs/examples/traceability-accessibility.svg" width="395" alt="需求追溯圖 — 找出電子展覽中還缺驗收證據的無障礙需求。"></a>
+  <a href="docs/examples/polar-library.svg"><img src="docs/examples/polar-library.svg" width="395" alt="極座標圖。入館尖峰為中午至下午四點，共 112 人次。"></a>
+  <a href="docs/examples/contours-hill.svg"><img src="docs/examples/contours-hill.svg" width="395" alt="等高線圖。山頂海拔 548 公尺，等高距為 100 公尺。"></a>
 </p>
 
 <p>
-  <a href="docs/examples/schedule-touring-exhibit.svg"><img src="docs/examples/schedule-touring-exhibit.svg" width="395" alt="排程網路圖 — 辨認決定巡迴展開展日期的關鍵路徑與任務餘裕。"></a>
-  <a href="docs/examples/polar-library.svg"><img src="docs/examples/polar-library.svg" width="395" alt="極座標圖 — 沿時鐘方向找出 24 小時圖書館的入館尖峰。"></a>
+  <a href="docs/examples/slope-accessibility.svg"><img src="docs/examples/slope-accessibility.svg" width="395" alt="斜率圖。字幕供應率從 66% 升至 85%，音訊供應率下降。"></a>
+  <a href="docs/examples/treemap-archive.svg"><img src="docs/examples/treemap-archive.svg" width="395" alt="矩形樹圖。照片占 100 GB 檔案庫中的 30 GB。"></a>
 </p>
 
 ## 設計資料庫

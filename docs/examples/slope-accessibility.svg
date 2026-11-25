@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="370" viewBox="0 0 680 370"
+     role="img" aria-labelledby="title desc" font-family="system-ui, sans-serif">
+  <title id="title">Availability of accessible formats before and after</title>
+  <desc id="desc">Availability changes from 82 to 56 percent for audio, 66 to 85 for captions, 41 to 67 for large print, and 20 to 26 for braille.</desc>
+  <rect width="680" height="370" fill="#fff0b8"/>
+  <path d="M235 64v226m220-226v226" fill="none" stroke="#ba8e2c" stroke-width="1.3"/>
+  <text x="235" y="49" fill="#4e340b" font-size="19" text-anchor="middle" font-weight="750">Before</text>
+  <text x="455" y="49" fill="#4e340b" font-size="19" text-anchor="middle" font-weight="750">After</text>
+  <path d="M235 100.9 455 167.2" stroke="#9e5214" stroke-width="2.8"/>
+  <circle cx="235" cy="100.9" r="5" fill="#9e5214"/><circle cx="455" cy="167.2" r="5" fill="#9e5214"/>
+  <text x="224" y="106.9" fill="#4e340b" font-size="18" text-anchor="end" font-weight="550">Audio 82%</text>
+  <text x="466" y="173.2" fill="#4e340b" font-size="18" text-anchor="start" font-weight="550">56% Audio</text>
+  <path d="M235 141.7 455 93.25" stroke="#4d3408" stroke-width="2.8"/>
+  <circle cx="235" cy="141.7" r="5" fill="#4d3408"/><circle cx="455" cy="93.25" r="5" fill="#4d3408"/>
+  <text x="224" y="147.7" fill="#4e340b" font-size="18" text-anchor="end" font-weight="550">Caption 66%</text>
+  <text x="466" y="99.25" fill="#4e340b" font-size="18" text-anchor="start" font-weight="550">85% Caption</text>
+  <path d="M235 205.45 455 139.15" stroke="#805e1c" stroke-width="2.8"/>
+  <circle cx="235" cy="205.45" r="5" fill="#805e1c"/><circle cx="455" cy="139.15" r="5" fill="#805e1c"/>
+  <text x="224" y="211.45" fill="#4e340b" font-size="18" text-anchor="end" font-weight="550">Large print 41%</text>
+  <text x="466" y="145.15" fill="#4e340b" font-size="18" text-anchor="start" font-weight="550">67% Large print</text>
+  <path d="M235 259 455 243.7" stroke="#a26f15" stroke-width="2.8"/>
+  <circle cx="235" cy="259" r="5" fill="#a26f15"/><circle cx="455" cy="243.7" r="5" fill="#a26f15"/>
+  <text x="224" y="265" fill="#4e340b" font-size="18" text-anchor="end" font-weight="550">Braille 20%</text>
+  <text x="466" y="249.7" fill="#4e340b" font-size="18" text-anchor="start" font-weight="550">26% Braille</text>
+</svg>

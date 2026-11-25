@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="370" viewBox="0 0 680 370"
+     role="img" aria-labelledby="title desc" font-family="system-ui, sans-serif">
+  <title id="title">Hill elevation contours</title>
+  <desc id="desc">Contour lines mark heights from 100 to 500 meters at 100-meter intervals. The marked summit is 548 meters. The arrow points north.</desc>
+  <rect width="680" height="370" fill="#f5f5f3"/>
+  <path d="M106 171C101 118 161 100 209 76S312 28 377 30C452 32 468 60 509 86S574 137 571 183C569 240 541 273 479 295S419 338 345 344C275 349 263 330 217 316S159 312 130 278C99 242 112 213 106 171Z" fill="#e2e2e0" stroke="#505050" stroke-width="1.65"/>
+  <path d="M147 181C147 128 197 115 241 92S314 52 370 54C424 56 453 83 480 110S537 145 537 188C535 231 506 261 454 277S401 310 343 314C288 319 272 294 231 287S177 283 158 252C144 230 151 210 147 181Z" fill="#d0d0cf" stroke="#505050" stroke-width="1.65"/>
+  <path d="M185 187C184 148 229 130 264 110S321 79 367 79C413 80 429 103 454 125S503 159 501 190C499 223 471 246 431 255S387 282 341 284C294 286 286 264 248 260S208 250 197 229C188 214 190 203 185 187Z" fill="#bcbcbc" stroke="#505050" stroke-width="1.65"/>
+  <path d="M225 180C233 150 267 145 290 125S331 106 364 108C402 108 418 128 432 146S460 172 459 192C458 220 436 228 405 238S362 253 333 250C294 246 292 230 261 229S219 206 225 180Z" fill="#a8a8a7" stroke="#505050" stroke-width="1.65"/>
+  <path d="M267 182C273 159 305 151 318 144S351 131 374 139C398 147 411 168 412 186C414 206 390 216 371 219S327 216 309 209S259 202 267 182Z" fill="#919191" stroke="#505050" stroke-width="1.65"/>
+  <text x="556" y="144" fill="#222222" font-size="14" text-anchor="middle" font-weight="700" stroke="#e2e2e0" stroke-width="5" paint-order="stroke">100</text>
+  <text x="514" y="147" fill="#222222" font-size="14" text-anchor="middle" font-weight="700" stroke="#d0d0cf" stroke-width="5" paint-order="stroke">200</text>
+  <text x="480" y="151" fill="#222222" font-size="14" text-anchor="middle" font-weight="700" stroke="#bcbcbc" stroke-width="5" paint-order="stroke">300</text>
+  <text x="446" y="161" fill="#222222" font-size="14" text-anchor="middle" font-weight="700" stroke="#a8a8a7" stroke-width="5" paint-order="stroke">400</text>
+  <text x="407" y="170" fill="#222222" font-size="14" text-anchor="middle" font-weight="700" stroke="#919191" stroke-width="5" paint-order="stroke">500</text>
+  <path d="M327 186h14m-7-7v14" stroke="#922e3a" stroke-width="2.8" stroke-linecap="round"/>
+  <text x="346" y="191" fill="#6d2530" font-size="17" text-anchor="start" font-weight="750">548 m</text>
+  <path d="M596 101V70m-7 8 7-8 7 8" fill="none" stroke="#383838" stroke-width="2"/>
+  <text x="596" y="64" fill="#383838" font-size="14" text-anchor="middle" font-weight="750">N</text>
+  <text x="559" y="322" fill="#363636" font-size="15" text-anchor="middle" font-weight="550">Elevation in m</text>
+</svg>
