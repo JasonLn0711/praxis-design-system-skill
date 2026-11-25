@@ -34,4 +34,6 @@ Use source material as supporting evidence. Follow the user's brief, project req
 
 Use the existing framework, accessible primitives, localization, and data contracts. Define typography, content hierarchy, spacing and density, semantic color roles, component states, imagery and motion only to the extent the change requires. Preserve the primary task at small widths, with real content and reduced motion. Keep new projects' decisions open to the evidence and existing projects' changes proportional to the request.
 
+Reuse the project's icon set when available. For a new surface, [Praxis SVG icons](assets/icons/) cover common actions, navigation, states, and evidence. For infrastructure diagrams, see the [cloud and IT icons](references/.upstream/diagram-design/skills/diagram-design/references/primitive-icons.md). Pair icons with visible text when the meaning needs explanation, and give icon-only controls accessible names.
+
 Use [acceptance](references/acceptance.md) to verify task behavior, visual fidelity, responsive/accessibility behavior, and motion or performance where relevant. Record what ran, what was observed, and any unverified surface. Give the user the deliverable and the evidence that supports completion.

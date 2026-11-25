@@ -4,7 +4,7 @@
 
 **Choose a design direction from the brief, then check it in the browser.**
 
-[繁體中文](README.zh-TW.md) · [Quick start](#quick-start) · [Worked example](#worked-example) · [Diagram showcase](#diagram-showcase) · [Design library](#design-library)
+[繁體中文](README.zh-TW.md) · [Quick start](#quick-start) · [Worked example](#worked-example) · [Diagram showcase](#diagram-showcase) · [Icons](docs/icons.md) · [Design library](#design-library)
 
 [![Install for Codex](docs/badges/codex.svg)](#quick-start) [![194 product profiles](docs/badges/profiles.svg)](#worked-example) [![Offline library: 5,227 records](docs/badges/catalog.svg)](#design-library) [![52 diagram types](docs/badges/diagrams.svg)](#diagram-showcase) [![MIT License](docs/badges/license.svg)](LICENSE)
 
@@ -72,6 +72,7 @@ Eight fictional scenarios. Select any image to open the full-size SVG. [Example 
 | Composition, motion and 3D | Taste Skill, Taste Skill Classics and RCS Frontend Skill |
 | Interface analysis, polish and acceptance | Impeccable and Frontend Codex Skills |
 | Diagram types, layout rules and examples | Diagram Design |
+| SVG icons for interfaces and diagrams | [Praxis icon gallery](docs/icons.md) |
 | Browser behavior, compatibility and fallbacks | Google Modern Web Guidance |
 | A method for researching design references | Refero |
 

@@ -4,7 +4,7 @@
 
 **從需求選出設計方向，再用瀏覽器驗收。**
 
-[English](README.md) · [快速上手](#快速上手) · [實際範例](#實際範例) · [圖解範例](#圖解範例) · [設計資料庫](#設計資料庫)
+[English](README.md) · [快速上手](#快速上手) · [實際範例](#實際範例) · [圖解範例](#圖解範例) · [圖示](docs/icons.md) · [設計資料庫](#設計資料庫)
 
 [![安裝至 Codex](docs/badges/codex.svg)](#快速上手) [![194 個產品情境](docs/badges/profiles.svg)](#實際範例) [![離線資料庫共 5,227 筆紀錄](docs/badges/catalog.svg)](#設計資料庫) [![52 種圖解](docs/badges/diagrams.svg)](#圖解範例) [![MIT 授權](docs/badges/license.svg)](LICENSE)
 
@@ -72,6 +72,7 @@ python3 skills/praxis-design-system/scripts/shortlist.py museum-gallery --mode l
 | 構圖、動態與 3D | Taste Skill、Taste Skill Classics、RCS Frontend Skill |
 | 介面分析、精修與驗收 | Impeccable、Frontend Codex Skills |
 | 圖解類型、排版規格與範例 | Diagram Design |
+| 介面與圖解用 SVG 圖示 | [Praxis 圖示集](docs/icons.md) |
 | 瀏覽器行為、相容性與備援 | Google Modern Web Guidance |
 | 設計參考的研究方法 | Refero |
 
