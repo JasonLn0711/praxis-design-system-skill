@@ -4,9 +4,9 @@
 
 **Choose a design direction from the brief, then check it in the browser.**
 
-[繁體中文](README.zh-TW.md) · [Quick start](#quick-start) · [Worked example](#worked-example) · [Design library](#design-library)
+[繁體中文](README.zh-TW.md) · [Quick start](#quick-start) · [Worked example](#worked-example) · [Diagram showcase](#diagram-showcase) · [Design library](#design-library)
 
-[![Install for Codex](docs/badges/codex.svg)](#quick-start) [![194 product profiles](docs/badges/profiles.svg)](#worked-example) [![Offline library: 5,227 records](docs/badges/catalog.svg)](#design-library) [![52 diagram types](docs/badges/diagrams.svg)](#look-up-a-diagram) [![MIT License](docs/badges/license.svg)](LICENSE)
+[![Install for Codex](docs/badges/codex.svg)](#quick-start) [![194 product profiles](docs/badges/profiles.svg)](#worked-example) [![Offline library: 5,227 records](docs/badges/catalog.svg)](#design-library) [![52 diagram types](docs/badges/diagrams.svg)](#diagram-showcase) [![MIT License](docs/badges/license.svg)](LICENSE)
 
 Praxis gives Codex a workflow for designing new interfaces, refining existing ones, and creating project-matched HTML/SVG diagrams.
 
@@ -39,6 +39,30 @@ To reproduce the shortlist from a cloned repository, run:
 ```bash
 python3 skills/praxis-design-system/scripts/shortlist.py museum-gallery --mode light --low-cost
 ```
+
+## Diagram showcase
+
+Eight fictional scenarios. Select any image to open the full-size SVG.
+
+<p>
+  <a href="docs/examples/exploded-sensor.svg"><img src="docs/examples/exploded-sensor.svg" width="395" alt="Axonometric teardown — How four components stack inside an air quality sensor."></a>
+  <a href="docs/examples/service-blueprint-museum.svg"><img src="docs/examples/service-blueprint-museum.svg" width="395" alt="Service blueprint — Follow a museum loan from pickup to cleaning and recharging."></a>
+</p>
+
+<p>
+  <a href="docs/examples/sankey-repair-cafe.svg"><img src="docs/examples/sankey-repair-cafe.svg" width="395" alt="Sankey diagram — Trace 100 repair items across four outcomes."></a>
+  <a href="docs/examples/wardley-archive.svg"><img src="docs/examples/wardley-archive.svg" width="395" alt="Wardley map — See which archive capabilities to build and which to reuse."></a>
+</p>
+
+<p>
+  <a href="docs/examples/event-modeling-publishing.svg"><img src="docs/examples/event-modeling-publishing.svg" width="395" alt="Event modeling — See how publishing commands update the review queue and public index."></a>
+  <a href="docs/examples/traceability-accessibility.svg"><img src="docs/examples/traceability-accessibility.svg" width="395" alt="Requirement traceability — Find the exhibit’s missing accessibility verification."></a>
+</p>
+
+<p>
+  <a href="docs/examples/schedule-touring-exhibit.svg"><img src="docs/examples/schedule-touring-exhibit.svg" width="395" alt="Schedule network — See which chain fixes the opening date and where there is float."></a>
+  <a href="docs/examples/polar-library.svg"><img src="docs/examples/polar-library.svg" width="395" alt="Polar chart — Spot the busiest four-hour window at a 24-hour library."></a>
+</p>
 
 ## Design library
 

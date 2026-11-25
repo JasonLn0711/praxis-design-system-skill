@@ -4,9 +4,9 @@
 
 **從需求選出設計方向，再用瀏覽器驗收。**
 
-[English](README.md) · [快速上手](#快速上手) · [實際範例](#實際範例) · [設計資料庫](#設計資料庫)
+[English](README.md) · [快速上手](#快速上手) · [實際範例](#實際範例) · [圖解範例](#圖解範例) · [設計資料庫](#設計資料庫)
 
-[![安裝至 Codex](docs/badges/codex.svg)](#快速上手) [![194 個產品情境](docs/badges/profiles.svg)](#實際範例) [![離線資料庫共 5,227 筆紀錄](docs/badges/catalog.svg)](#設計資料庫) [![52 種圖解](docs/badges/diagrams.svg)](#查詢圖解) [![MIT 授權](docs/badges/license.svg)](LICENSE)
+[![安裝至 Codex](docs/badges/codex.svg)](#快速上手) [![194 個產品情境](docs/badges/profiles.svg)](#實際範例) [![離線資料庫共 5,227 筆紀錄](docs/badges/catalog.svg)](#設計資料庫) [![52 種圖解](docs/badges/diagrams.svg)](#圖解範例) [![MIT 授權](docs/badges/license.svg)](LICENSE)
 
 Praxis 提供一套 Codex 設計流程，可用於新介面、既有網站精修，以及符合專案風格的 HTML/SVG 圖解。
 
@@ -39,6 +39,30 @@ npx skills add JasonLn0711/praxis-design-system-skill --skill praxis-design-syst
 ```bash
 python3 skills/praxis-design-system/scripts/shortlist.py museum-gallery --mode light --low-cost
 ```
+
+## 圖解範例
+
+八個示意情境。點開任一圖片即可查看原尺寸 SVG。
+
+<p>
+  <a href="docs/examples/exploded-sensor.svg"><img src="docs/examples/exploded-sensor.svg" width="395" alt="軸測爆炸圖 — 看清空氣品質感測器的四層組件。"></a>
+  <a href="docs/examples/service-blueprint-museum.svg"><img src="docs/examples/service-blueprint-museum.svg" width="395" alt="服務藍圖 — 看見導覽設備從借出到清潔、充電的前後台工作。"></a>
+</p>
+
+<p>
+  <a href="docs/examples/sankey-repair-cafe.svg"><img src="docs/examples/sankey-repair-cafe.svg" width="395" alt="桑基圖 — 追蹤 100 件物品如何分流至四種處理結果。"></a>
+  <a href="docs/examples/wardley-archive.svg"><img src="docs/examples/wardley-archive.svg" width="395" alt="Wardley 地圖 — 辨認研究資料典藏平台該自建與可沿用的能力。"></a>
+</p>
+
+<p>
+  <a href="docs/examples/event-modeling-publishing.svg"><img src="docs/examples/event-modeling-publishing.svg" width="395" alt="事件建模圖 — 追蹤出版指令如何更新審稿佇列與公開索引。"></a>
+  <a href="docs/examples/traceability-accessibility.svg"><img src="docs/examples/traceability-accessibility.svg" width="395" alt="需求追溯圖 — 找出電子展覽中還缺驗收證據的無障礙需求。"></a>
+</p>
+
+<p>
+  <a href="docs/examples/schedule-touring-exhibit.svg"><img src="docs/examples/schedule-touring-exhibit.svg" width="395" alt="排程網路圖 — 辨認決定巡迴展開展日期的關鍵路徑與任務餘裕。"></a>
+  <a href="docs/examples/polar-library.svg"><img src="docs/examples/polar-library.svg" width="395" alt="極座標圖 — 沿時鐘方向找出 24 小時圖書館的入館尖峰。"></a>
+</p>
 
 ## 設計資料庫
 

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="468" viewBox="0 0 800 468" role="img" aria-labelledby="title desc" font-family="system-ui, sans-serif">
+<title id="title">When people visit the library</title>
+<desc id="desc">Clockwise from midnight the arrivals are 18, 42, 90, 112, 84 and 38. The peak is 112 visits between noon and four p.m. Ray length, not area, represents the number of visits.</desc>
+<rect x="0.5" y="0.5" width="799" height="467" fill="#f7f9fb" stroke="#c5d3dd" rx="15"/>
+<text x="30" y="29" fill="#006c55" font-size="12" font-weight="700" text-anchor="start" letter-spacing=".8">POLAR CHART</text>
+<text x="30" y="67" fill="#15263a" font-size="34" font-weight="700" text-anchor="start">When people visit the library</text>
+<text x="30" y="92" fill="#4b6072" font-size="16" font-weight="400" text-anchor="start">Illustrative arrivals at a 24-hour library · six four-hour windows</text>
+<line x1="30" y1="109" x2="770" y2="109" stroke="#c5d3dd" stroke-width="1"/>
+<circle cx="400" cy="270" r="19.6" fill="none" stroke="#c5d3dd" stroke-width="1.05"/>
+<circle cx="400" cy="270" r="39.2" fill="none" stroke="#c5d3dd" stroke-width="1.05"/>
+<circle cx="400" cy="270" r="58.8" fill="none" stroke="#c5d3dd" stroke-width="1.05"/>
+<circle cx="400" cy="270" r="78.4" fill="none" stroke="#c5d3dd" stroke-width="1.05"/>
+<circle cx="400" cy="270" r="98.0" fill="none" stroke="#c5d3dd" stroke-width="1.05"/>
+<line x1="400" y1="270" x2="400.0" y2="172.0" stroke="#c5d3dd" stroke-width="1.2"/>
+<line x1="400" y1="270" x2="400.0" y2="255.3" stroke="#246c91" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="400.0" cy="255.3" r="4" fill="#246c91" stroke="#ffffff" stroke-width="1.2"/>
+<text x="400.0" y="139.0" fill="#4b6072" font-size="14" font-weight="600" text-anchor="middle">00–04</text>
+<text x="400.0" y="159.0" fill="#246c91" font-size="18" font-weight="700" text-anchor="middle">18</text>
+<line x1="400" y1="270" x2="484.87" y2="221.0" stroke="#c5d3dd" stroke-width="1.2"/>
+<line x1="400" y1="270" x2="429.7" y2="252.85" stroke="#246c91" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="429.7" cy="252.85" r="4" fill="#246c91" stroke="#ffffff" stroke-width="1.2"/>
+<text x="504.79" y="207.5" fill="#4b6072" font-size="14" font-weight="600" text-anchor="start">04–08</text>
+<text x="504.79" y="227.5" fill="#246c91" font-size="18" font-weight="700" text-anchor="start">42</text>
+<line x1="400" y1="270" x2="484.87" y2="319.0" stroke="#c5d3dd" stroke-width="1.2"/>
+<line x1="400" y1="270" x2="463.65" y2="306.75" stroke="#246c91" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="463.65" cy="306.75" r="4" fill="#246c91" stroke="#ffffff" stroke-width="1.2"/>
+<text x="504.79" y="328.5" fill="#4b6072" font-size="14" font-weight="600" text-anchor="start">08–12</text>
+<text x="504.79" y="348.5" fill="#246c91" font-size="18" font-weight="700" text-anchor="start">90</text>
+<line x1="400" y1="270" x2="400.0" y2="368.0" stroke="#c5d3dd" stroke-width="1.2"/>
+<line x1="400" y1="270" x2="400.0" y2="361.47" stroke="#006c55" stroke-width="3.2" stroke-linecap="round"/>
+<circle cx="400.0" cy="361.47" r="4.7" fill="#006c55" stroke="#ffffff" stroke-width="1.2"/>
+<text x="400.0" y="390.0" fill="#4b6072" font-size="14" font-weight="600" text-anchor="middle">12–16</text>
+<text x="400.0" y="410.0" fill="#006c55" font-size="18" font-weight="700" text-anchor="middle">112</text>
+<line x1="400" y1="270" x2="315.13" y2="319.0" stroke="#c5d3dd" stroke-width="1.2"/>
+<line x1="400" y1="270" x2="340.59" y2="304.3" stroke="#246c91" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="340.59" cy="304.3" r="4" fill="#246c91" stroke="#ffffff" stroke-width="1.2"/>
+<text x="295.21" y="328.5" fill="#4b6072" font-size="14" font-weight="600" text-anchor="end">16–20</text>
+<text x="295.21" y="348.5" fill="#246c91" font-size="18" font-weight="700" text-anchor="end">84</text>
+<line x1="400" y1="270" x2="315.13" y2="221.0" stroke="#c5d3dd" stroke-width="1.2"/>
+<line x1="400" y1="270" x2="373.12" y2="254.48" stroke="#246c91" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="373.12" cy="254.48" r="4" fill="#246c91" stroke="#ffffff" stroke-width="1.2"/>
+<text x="295.21" y="207.5" fill="#4b6072" font-size="14" font-weight="600" text-anchor="end">20–24</text>
+<text x="295.21" y="227.5" fill="#246c91" font-size="18" font-weight="700" text-anchor="end">38</text>
+<text x="409" y="254.4" fill="#4b6072" font-size="10" font-weight="550" text-anchor="start">24</text>
+<text x="409" y="234.8" fill="#4b6072" font-size="10" font-weight="550" text-anchor="start">48</text>
+<text x="409" y="215.2" fill="#4b6072" font-size="10" font-weight="550" text-anchor="start">72</text>
+<text x="409" y="195.6" fill="#4b6072" font-size="10" font-weight="550" text-anchor="start">96</text>
+<text x="409" y="176.0" fill="#4b6072" font-size="10" font-weight="550" text-anchor="start">120</text>
+<circle cx="400" cy="270" r="3.5" fill="#15263a"/>
+<line x1="30" y1="420" x2="770" y2="420" stroke="#c5d3dd" stroke-width="1"/>
+<text x="30" y="449" fill="#4b6072" font-size="15" font-weight="500" text-anchor="start">The busiest window is 12:00–16:00, with 112 arrivals in this example.</text>
+</svg>

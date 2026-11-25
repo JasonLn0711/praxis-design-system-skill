@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="468" viewBox="0 0 800 468" role="img" aria-labelledby="title desc" font-family="system-ui, sans-serif">
+<title id="title">From draft to publication</title>
+<desc id="desc">Submit draft emits Draft submitted, which updates the review queue. Approve copy emits Copy approved, which updates the release board. Publish article emits Article published, which updates the public index.</desc>
+<rect x="0.5" y="0.5" width="799" height="467" fill="#f7f9fb" stroke="#c5d3dd" rx="15"/>
+<text x="30" y="29" fill="#006c55" font-size="12" font-weight="700" text-anchor="start" letter-spacing=".8">EVENT MODELING</text>
+<text x="30" y="67" fill="#15263a" font-size="34" font-weight="700" text-anchor="start">From draft to publication</text>
+<text x="30" y="92" fill="#4b6072" font-size="16" font-weight="400" text-anchor="start">Bilingual article · commands, events and views by stage</text>
+<line x1="30" y1="109" x2="770" y2="109" stroke="#c5d3dd" stroke-width="1"/>
+<g data-event-stage="stage-1" data-stage-order="1" data-diagram-role="timeframe"><text x="245" y="151" fill="#4b6072" font-size="12" font-weight="700" text-anchor="middle" letter-spacing=".8">1  SUBMIT</text>
+<g data-event-kind="command" data-event-id="1-command" data-diagram-role="command"><g><rect x="156" y="171" width="178" height="49" fill="#ffffff" stroke="#c5d3dd" rx="6"/>
+<text x="245.0" y="200.5" fill="#15263a" font-size="15" font-weight="600" text-anchor="middle">Submit draft</text></g></g>
+<g data-event-rel="emits" data-diagram-role="event-link" data-from="1-command" data-to="1-event"><g><path d="M245 220 L245 259" fill="none" stroke="#4b6072" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="245,259 242,252 248,252" fill="#4b6072"/></g>
+<text x="255" y="244" fill="#4b6072" font-size="13" font-weight="500" text-anchor="start">emits</text></g>
+<g data-event-kind="event" data-event-id="1-event" data-diagram-role="event"><g><rect x="156" y="261" width="178" height="49" fill="#e1f3ec" stroke="#006c55" rx="6"/>
+<text x="245.0" y="290.5" fill="#006c55" font-size="15" font-weight="600" text-anchor="middle">Draft submitted</text></g></g>
+<g data-event-rel="projects" data-diagram-role="event-link" data-from="1-event" data-to="1-read-model"><g><path d="M245 310 L245 349" fill="none" stroke="#4b6072" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="245,349 242,342 248,342" fill="#4b6072"/></g>
+<text x="255" y="334" fill="#4b6072" font-size="13" font-weight="500" text-anchor="start">projects</text></g>
+<g data-event-kind="read-model" data-event-id="1-read-model" data-diagram-role="read-model"><g><rect x="156" y="351" width="178" height="49" fill="#ffffff" stroke="#c5d3dd" rx="6"/>
+<text x="245.0" y="380.5" fill="#15263a" font-size="15" font-weight="600" text-anchor="middle">Review queue</text></g></g></g>
+<g data-event-stage="stage-2" data-stage-order="2" data-diagram-role="timeframe"><text x="453" y="151" fill="#4b6072" font-size="12" font-weight="700" text-anchor="middle" letter-spacing=".8">2  REVIEW</text>
+<g data-event-kind="command" data-event-id="2-command" data-diagram-role="command"><g><rect x="364" y="171" width="178" height="49" fill="#ffffff" stroke="#c5d3dd" rx="6"/>
+<text x="453.0" y="200.5" fill="#15263a" font-size="15" font-weight="600" text-anchor="middle">Approve copy</text></g></g>
+<g data-event-rel="emits" data-diagram-role="event-link" data-from="2-command" data-to="2-event"><g><path d="M453 220 L453 259" fill="none" stroke="#4b6072" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="453,259 450,252 456,252" fill="#4b6072"/></g>
+<text x="463" y="244" fill="#4b6072" font-size="13" font-weight="500" text-anchor="start">emits</text></g>
+<g data-event-kind="event" data-event-id="2-event" data-diagram-role="event"><g><rect x="364" y="261" width="178" height="49" fill="#e1f3ec" stroke="#006c55" rx="6"/>
+<text x="453.0" y="290.5" fill="#006c55" font-size="15" font-weight="600" text-anchor="middle">Copy approved</text></g></g>
+<g data-event-rel="projects" data-diagram-role="event-link" data-from="2-event" data-to="2-read-model"><g><path d="M453 310 L453 349" fill="none" stroke="#4b6072" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="453,349 450,342 456,342" fill="#4b6072"/></g>
+<text x="463" y="334" fill="#4b6072" font-size="13" font-weight="500" text-anchor="start">projects</text></g>
+<g data-event-kind="read-model" data-event-id="2-read-model" data-diagram-role="read-model"><g><rect x="364" y="351" width="178" height="49" fill="#ffffff" stroke="#c5d3dd" rx="6"/>
+<text x="453.0" y="380.5" fill="#15263a" font-size="15" font-weight="600" text-anchor="middle">Release board</text></g></g></g>
+<g data-event-stage="stage-3" data-stage-order="3" data-diagram-role="timeframe"><text x="661" y="151" fill="#4b6072" font-size="12" font-weight="700" text-anchor="middle" letter-spacing=".8">3  PUBLISH</text>
+<g data-event-kind="command" data-event-id="3-command" data-diagram-role="command"><g><rect x="572" y="171" width="178" height="49" fill="#ffffff" stroke="#c5d3dd" rx="6"/>
+<text x="661.0" y="200.5" fill="#15263a" font-size="15" font-weight="600" text-anchor="middle">Publish article</text></g></g>
+<g data-event-rel="emits" data-diagram-role="event-link" data-from="3-command" data-to="3-event"><g><path d="M661 220 L661 259" fill="none" stroke="#4b6072" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="661,259 658,252 664,252" fill="#4b6072"/></g>
+<text x="671" y="244" fill="#4b6072" font-size="13" font-weight="500" text-anchor="start">emits</text></g>
+<g data-event-kind="event" data-event-id="3-event" data-diagram-role="event"><g><rect x="572" y="261" width="178" height="49" fill="#e1f3ec" stroke="#006c55" rx="6"/>
+<text x="661.0" y="290.5" fill="#006c55" font-size="15" font-weight="600" text-anchor="middle">Article published</text></g></g>
+<g data-event-rel="projects" data-diagram-role="event-link" data-from="3-event" data-to="3-read-model"><g><path d="M661 310 L661 349" fill="none" stroke="#4b6072" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="661,349 658,342 664,342" fill="#4b6072"/></g>
+<text x="671" y="334" fill="#4b6072" font-size="13" font-weight="500" text-anchor="start">projects</text></g>
+<g data-event-kind="read-model" data-event-id="3-read-model" data-diagram-role="read-model"><g><rect x="572" y="351" width="178" height="49" fill="#ffffff" stroke="#c5d3dd" rx="6"/>
+<text x="661.0" y="380.5" fill="#15263a" font-size="15" font-weight="600" text-anchor="middle">Public index</text></g></g></g>
+<text x="30" y="200" fill="#15263a" font-size="17" font-weight="650" text-anchor="start">Command</text>
+<text x="30" y="290" fill="#15263a" font-size="17" font-weight="650" text-anchor="start">Event</text>
+<text x="30" y="380" fill="#15263a" font-size="17" font-weight="650" text-anchor="start">Read model</text>
+<line x1="30" y1="420" x2="770" y2="420" stroke="#c5d3dd" stroke-width="1"/>
+<text x="30" y="449" fill="#4b6072" font-size="15" font-weight="500" text-anchor="start">The public index changes after the article is published.</text>
+</svg>
