@@ -1,0 +1,34 @@
+{
+  "run": {
+    "date": "2026-09-06",
+    "skillPackVersion": "1.13.0",
+    "skillPackCommit": "working-tree",
+    "model": null,
+    "reasoning": null,
+    "invocationMode": null,
+    "tools": [],
+    "note": "No independent model runner was authorized in this implementation turn. Catalog and fixtures were validated only."
+  },
+  "results": [
+    {"id": "E01", "status": "NOT RUN", "reason": "Independent model execution was unavailable."},
+    {"id": "E02", "status": "NOT RUN", "reason": "Independent model execution was unavailable."},
+    {"id": "E03", "status": "NOT RUN", "reason": "Independent model execution was unavailable."},
+    {"id": "E04", "status": "NOT RUN", "reason": "Independent model execution was unavailable."},
+    {"id": "E05", "status": "NOT RUN", "reason": "Independent model execution and AT coverage were unavailable."},
+    {"id": "E06", "status": "NOT RUN", "reason": "Independent model execution was unavailable."},
+    {"id": "E07", "status": "NOT RUN", "reason": "Independent model execution was unavailable."},
+    {"id": "E08", "status": "NOT RUN", "reason": "Independent model execution was unavailable."},
+    {"id": "E09", "status": "NOT RUN", "reason": "Independent model execution was unavailable."},
+    {"id": "E10", "status": "NOT RUN", "reason": "Independent model execution was unavailable."},
+    {"id": "E11", "status": "NOT RUN", "reason": "Independent model execution was unavailable."},
+    {"id": "E12", "status": "NOT RUN", "reason": "Independent model execution was unavailable."},
+    {"id": "E13", "status": "NOT RUN", "reason": "Independent model execution was unavailable."},
+    {"id": "E14", "status": "NOT RUN", "reason": "Independent model execution was unavailable."},
+    {"id": "E15", "status": "NOT RUN", "reason": "Independent model execution was unavailable."},
+    {"id": "E16", "status": "NOT RUN", "reason": "Independent model execution was unavailable."},
+    {"id": "E17", "status": "NOT RUN", "reason": "Independent model execution was unavailable."},
+    {"id": "E18", "status": "NOT RUN", "reason": "Independent model execution was unavailable."},
+    {"id": "E19", "status": "NOT RUN", "reason": "Independent model execution was unavailable."},
+    {"id": "E20", "status": "NOT RUN", "reason": "Independent model execution was unavailable."}
+  ]
+}

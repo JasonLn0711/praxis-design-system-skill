@@ -1,0 +1,4 @@
+interface:
+  display_name: "Praxis Design System"
+  short_description: "Brief-led design, implementation, and visual QA"
+  default_prompt: "Use $praxis-design-system to choose a design direction from the brief and verify it in the browser."

@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>Async fixture</title></head><body>
+<input id="search" aria-label="Search"><button id="save">Save</button><output id="result"></output>
+<script>
+let saved = 'initial';
+search.oninput = async () => { const q=search.value; const delay=q.length===1?200:20; await new Promise(r=>setTimeout(r,delay)); result.value=q; };
+save.onclick = async () => { const before=saved; saved=search.value; save.disabled=true; try { await Promise.reject(new Error('offline')); } catch { saved=before; } finally { save.disabled=false; } };
+</script>
+</body></html>

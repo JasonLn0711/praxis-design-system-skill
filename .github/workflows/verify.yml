@@ -1,0 +1,44 @@
+name: Verify skill
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    env:
+      DISABLE_TELEMETRY: '1'
+      SKILL_DIR: skills/praxis-design-system
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v6.3.0
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '22'
+      - name: Verify source contents and tests
+        run: |
+          cmp LICENSE "$SKILL_DIR/LICENSE"
+          python3 -B "$SKILL_DIR/scripts/verify_sources.py"
+          python3 -B -m unittest discover -s "$SKILL_DIR/tests"
+      - name: Verify Codex installation
+        run: |
+          source_repo="$GITHUB_WORKSPACE"
+          install_dir="$(mktemp -d)"
+          cd "$install_dir"
+          git init -q
+          npx --yes skills@1.9.0 add "$source_repo" --skill praxis-design-system -a codex -y
+          installed=".agents/skills/praxis-design-system"
+          python3 -B "$installed/scripts/verify_sources.py"
+          python3 -B "$installed/scripts/catalog.py" --show diagrams/swimlane --json > swimlane.json
+          jq -e '.id == "swimlane" and (.details.variants | length == 3)' swimlane.json

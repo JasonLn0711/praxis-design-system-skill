@@ -1,0 +1,174 @@
+[
+  {
+    "directory": "ui-ux-pro-max-skill",
+    "repository": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "commit": "8db36338810d0942567b97ce439affd1619fcf31",
+    "tree": "79a9864d9443d2ae68b060fb54af123f08f51e1a",
+    "commit_date": "2026-11-25",
+    "license": "MIT",
+    "license_file": "LICENSE",
+    "entrypoints": [
+      ".claude/skills/ui-ux-pro-max/SKILL.md",
+      "src/ui-ux-pro-max/data/styles.csv"
+    ],
+    "files": 750
+  },
+  {
+    "directory": "taste-skill",
+    "repository": "https://github.com/Leonxlnx/taste-skill",
+    "commit": "d1a2bb41d927083ac7118f60cfc9cdf711810ea0",
+    "tree": "9f78999b14035824450df32a89733038017e05a5",
+    "commit_date": "2026-11-24",
+    "license": "MIT",
+    "license_file": "LICENSE",
+    "entrypoints": [
+      "skills/taste-skill/SKILL.md"
+    ],
+    "files": 1664
+  },
+  {
+    "directory": "impeccable",
+    "repository": "https://github.com/pbakaus/impeccable",
+    "commit": "b49177d32788f2dc585c42831d845dacf1ebed2c",
+    "tree": "2bf5c40366be7a92dd382cf0fb1015558c5ae7a4",
+    "commit_date": "2026-11-18",
+    "license": "Apache-2.0",
+    "license_file": "LICENSE",
+    "entrypoints": [
+      ".agents/skills/impeccable/SKILL.md",
+      "NOTICE.md"
+    ],
+    "files": 4943,
+    "checkout_crlf_suffix": ".cmd"
+  },
+  {
+    "directory": "diagram-design",
+    "repository": "https://github.com/cathrynlavery/diagram-design",
+    "commit": "67dbb00176980741a909c84c124f86ef91bbf546",
+    "tree": "d3c21f9c085dfe96913b52eaffaaac2218039072",
+    "commit_date": "2026-11-25",
+    "license": "MIT",
+    "license_file": "LICENSE",
+    "entrypoints": [
+      "skills/diagram-design/SKILL.md",
+      "THIRD_PARTY_LICENSES.md"
+    ],
+    "files": 791,
+    "distribution_tree": "adae9482e9d21f76a93117fae10d7944d31535ca",
+    "distribution_files": 790,
+    "distribution_changes": "Exclude the separately sourced Stata wordmark, its two inline copies, and its generator entry."
+  },
+  {
+    "directory": "design-pro",
+    "repository": "https://github.com/0xlukem/design-pro",
+    "commit": "3f4546b82e7c77da5b77c6f8b8565a526bc1094b",
+    "tree": "4ab537692d106f751de0107574acbe1d04e06a78",
+    "commit_date": "2026-10-20",
+    "license": "MIT",
+    "license_file": "LICENSE",
+    "entrypoints": [
+      "skills/design-pro/SKILL.md"
+    ],
+    "files": 19
+  },
+  {
+    "directory": "taste-skill-classics",
+    "repository": "https://github.com/Leonxlnx/taste-skill-classics",
+    "commit": "5e08c9383dc4ad7fc0df70e1ac8cfa09ec356305",
+    "tree": "c9c2c947b4178d8a5842fd2fcb5adc55169116d3",
+    "commit_date": "2026-10-19",
+    "license": "MIT",
+    "license_file": "LICENSE",
+    "entrypoints": [
+      "skills"
+    ],
+    "files": 24
+  },
+  {
+    "directory": "rcs-frontend-skill",
+    "repository": "https://github.com/RitvikChunamari/rcs-frontend-skill",
+    "commit": "18663cfff2564a306431663e7c4d151400b104bb",
+    "tree": "397b0bf24e21aa4c5bfcfac5d43ae9ebce9d683b",
+    "commit_date": "2026-11-17",
+    "license": "MIT",
+    "license_file": "LICENSE",
+    "entrypoints": [
+      "SKILL.md"
+    ],
+    "files": 61
+  },
+  {
+    "directory": "frontend-codex-skills",
+    "repository": "https://github.com/ElVaddy-lab/frontend-codex-skills",
+    "commit": "873a3778538427ae5ea39acd5d8c3303528559d2",
+    "tree": "d81eea2a99f5ea3cf9dd6bfe702ed1ea6a9df9f1",
+    "commit_date": "2026-09-06",
+    "license": "MIT",
+    "license_file": "LICENSE",
+    "entrypoints": [
+      "skills"
+    ],
+    "files": 144,
+    "checkout_crlf_suffix": ".ps1"
+  },
+  {
+    "directory": "refero_skill",
+    "repository": "https://github.com/referodesign/refero_skill",
+    "commit": "2382e518f90096df607196b9a635da2d1bc142f9",
+    "tree": "ecd0b2eb313e865abff8a00321a5527fcbdbf4c1",
+    "commit_date": "2026-10-12",
+    "license": "MIT",
+    "license_file": "LICENSE",
+    "entrypoints": [
+      "skills/refero-design/SKILL.md"
+    ],
+    "files": 30
+  },
+  {
+    "directory": "taste-skill-v2-1-5",
+    "repository": "https://github.com/Leonxlnx/taste-skill",
+    "release": "v2.1.5",
+    "commit": "12af471f627f866411b4bd785b19646d3672784c",
+    "tree": "db698c9093437ee7daea871f70b48d06a838038e",
+    "commit_date": "2026-10-25",
+    "license": "MIT",
+    "license_file": "LICENSE",
+    "entrypoints": [
+      "skills/taste-skill/SKILL.md",
+      "skills/taste-skill/library/directions.json",
+      "skills/taste-skill/library/app.json"
+    ],
+    "files": 72
+  },
+  {
+    "directory": "modern-web-guidance",
+    "repository": "https://github.com/GoogleChrome/modern-web-guidance",
+    "commit": "2b4aa13a72dd47cd135b06ce5abfccd92e19b24f",
+    "tree": "7b53aae05f9b91ef76da67b45252fcbdc295f992",
+    "commit_date": "2026-11-23",
+    "license": "Apache-2.0 (code); CC-BY-4.0 (guide documentation; see README)",
+    "license_file": "LICENSE",
+    "entrypoints": [
+      "skills/modern-web-guidance/SKILL.md",
+      "skills/modern-web-guidance/guides",
+      "README.md"
+    ],
+    "files": 267
+  },
+  {
+    "directory": "modern-web-guidance-npm",
+    "repository": "https://github.com/GoogleChrome/modern-web-guidance-src",
+    "release": "npm@1.0.2",
+    "distribution": "https://registry.npmjs.org/modern-web-guidance/-/modern-web-guidance-1.0.2.tgz",
+    "integrity": "sha512-ksFBCdzMl5xxf7wuF7XQbudQ6El1e2VrO0WzcH/U29NYGNzu0EZjtojkfwzFBSnmenDyl7QIwPCgYvfEmZHr+w==",
+    "tree": "04f10a7cd36a0fc65f5807c0ae48e2a5138bc2e3",
+    "files": 282,
+    "license": "Apache-2.0 (code); CC-BY-4.0 (guide documentation; see README)",
+    "license_file": "LICENSE",
+    "entrypoints": [
+      "skills/modern-web-guidance/modern-web.mjs",
+      "skills/modern-web-guidance/search.mjs",
+      "skills/modern-web-guidance/gen"
+    ]
+  }
+]

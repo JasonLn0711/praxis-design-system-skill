@@ -1,0 +1,96 @@
+{
+  "name": "frontend-codex-skills",
+  "version": "1.13.0",
+  "skills": [
+    {
+      "name": "web-ui-reverse-engineer",
+      "stage": "analysis",
+      "output": "Website reverse-engineering report",
+      "requires": [],
+      "optionalIntegrations": []
+    },
+    {
+      "name": "web-ui-designer",
+      "stage": "design",
+      "output": "Web/UI design brief",
+      "requires": [],
+      "optionalIntegrations": [
+        "design-taste-frontend",
+        "gpt-taste",
+        "high-end-visual-design",
+        "minimalist-ui",
+        "industrial-brutalist-ui"
+      ]
+    },
+    {
+      "name": "frontend-design-planner",
+      "stage": "planning",
+      "output": "Frontend implementation blueprint",
+      "requires": [
+        "web-ui-designer"
+      ],
+      "optionalIntegrations": []
+    },
+    {
+      "name": "frontend-code-architecture",
+      "stage": "architecture",
+      "output": "Frontend code architecture guardrails",
+      "requires": [],
+      "optionalIntegrations": []
+    },
+    {
+      "name": "frontend-implementation",
+      "stage": "implementation",
+      "output": "Working frontend implementation",
+      "requires": [
+        "web-ui-designer",
+        "frontend-code-architecture"
+      ],
+      "optionalIntegrations": []
+    },
+    {
+      "name": "frontend-performance-audit",
+      "stage": "performance",
+      "output": "Evidence-backed frontend performance audit",
+      "requires": [],
+      "optionalIntegrations": []
+    },
+    {
+      "name": "frontend-accessibility-audit",
+      "stage": "accessibility",
+      "output": "Evidence-backed frontend accessibility audit",
+      "requires": [],
+      "optionalIntegrations": []
+    },
+    {
+      "name": "frontend-qa-orchestrator",
+      "stage": "qa",
+      "output": "Frontend QA gate orchestration report",
+      "requires": [],
+      "optionalIntegrations": []
+    },
+    {
+      "name": "frontend-acceptance-review",
+      "stage": "acceptance",
+      "output": "Evidence-backed acceptance report",
+      "requires": [],
+      "optionalIntegrations": []
+    },
+    {
+      "name": "website-master-prompts",
+      "stage": "prompting",
+      "output": "Copy-ready website generation master prompt",
+      "requires": [
+        "web-ui-designer"
+      ],
+      "optionalIntegrations": [
+        "gsap-core",
+        "gsap-timeline",
+        "gsap-scrolltrigger",
+        "gsap-react",
+        "gsap-performance",
+        "gsap-plugins"
+      ]
+    }
+  ]
+}

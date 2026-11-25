@@ -1,0 +1,13 @@
+{
+  "run": {
+    "model": null,
+    "reasoning": null,
+    "skillPackVersion": null,
+    "skillPackCommit": null,
+    "invocationMode": null,
+    "tools": [],
+    "startedAt": null,
+    "finishedAt": null
+  },
+  "results": []
+}
