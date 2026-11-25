@@ -2,6 +2,13 @@
 
 圖庫讓評估 Praxis 的讀者快速辨認適用的圖型，再點開原圖查看資料如何轉成圖形。Jason 提出八種較少見的例圖，並指定 README 以讀者需要的資訊為主。Praxis 保存原創 SVG、中英文入口和驗收證據。 [繁體中文圖庫](../../README.zh-TW.md#圖解範例) · [English showcase](../../README.md#diagram-showcase) · [圖解選型指引](../../skills/praxis-design-system/references/design-decisions.md#diagrams)
 
+## 新版圖庫
+
+依 Jason 回饋，新版以一張流程圖呈現發布判斷，其餘圖表分別呈現組裝結構、日曆分布、數值分布、日內週期、地形、前後變化與占比。八張圖各有獨立配色，圖內文字保留節點名稱、資料標籤、刻度和圖例。
+
+- 新版雙語 README 與八份 SVG 共十檔匿名回讀相符。 [圖庫提交 `e33e4f7`](https://github.com/JasonLn0711/praxis-design-system-skill/commit/e33e4f7481444ce70c5ebea366593270876707d1)
+- 兩份 GitHub Markdown 的圖表連結皆指向對應 SVG。Chromium 預覽在 375px 呈單欄、860px 呈雙欄，原尺寸的 80 個圖內標籤皆在邊界內且互不重疊。 [GitHub Actions](https://github.com/JasonLn0711/praxis-design-system-skill/actions/runs/45549034057)
+
 ## 初版圖庫
 
 | 原圖 | 讀者可核對的內容 |
