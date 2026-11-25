@@ -1,10 +1,14 @@
+<img src="skills/praxis-design-system/assets/praxis.svg" width="48" height="48" alt="Praxis">
+
 # Praxis Design System Skill
 
 **Choose a design direction from the brief, then check it in the browser.**
 
 [繁體中文](README.zh-TW.md) · [Quick start](#quick-start) · [Worked example](#worked-example) · [Design library](#design-library)
 
-Praxis gives Codex a workflow for designing new interfaces, refining existing ones, and creating project-matched HTML/SVG diagrams. The offline library covers **194 product profiles**, **52 diagram types**, and **5,227 records across 34 collections**.
+[![Install for Codex](docs/badges/codex.svg)](#quick-start) [![194 product profiles](docs/badges/profiles.svg)](#worked-example) [![Offline library: 5,227 records](docs/badges/catalog.svg)](#design-library) [![52 diagram types](docs/badges/diagrams.svg)](#look-up-a-diagram) [![MIT License](docs/badges/license.svg)](LICENSE)
+
+Praxis gives Codex a workflow for designing new interfaces, refining existing ones, and creating project-matched HTML/SVG diagrams.
 
 ## Quick start
 
@@ -46,6 +50,8 @@ python3 skills/praxis-design-system/scripts/shortlist.py museum-gallery --mode l
 | Diagram types, layout rules and examples | Diagram Design |
 | Browser behavior, compatibility and fallbacks | Google Modern Web Guidance |
 | A method for researching design references | Refero |
+
+### Look up a diagram
 
 Look up an exact record by ID. For example, `diagrams/swimlane` returns the swimlane specification and the light, dark and editorial examples.
 

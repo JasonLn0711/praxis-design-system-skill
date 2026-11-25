@@ -1,10 +1,14 @@
+<img src="skills/praxis-design-system/assets/praxis.svg" width="48" height="48" alt="Praxis">
+
 # Praxis Design System Skill
 
 **從需求選出設計方向，再用瀏覽器驗收。**
 
 [English](README.md) · [快速上手](#快速上手) · [實際範例](#實際範例) · [設計資料庫](#設計資料庫)
 
-Praxis 提供一套 Codex 設計流程，可用於新介面、既有網站精修，以及符合專案風格的 HTML/SVG 圖解。離線資料庫涵蓋 **194 個產品情境**、**52 種圖解**，共 **34 個資料集、5,227 筆紀錄**。
+[![安裝至 Codex](docs/badges/codex.svg)](#快速上手) [![194 個產品情境](docs/badges/profiles.svg)](#實際範例) [![離線資料庫共 5,227 筆紀錄](docs/badges/catalog.svg)](#設計資料庫) [![52 種圖解](docs/badges/diagrams.svg)](#查詢圖解) [![MIT 授權](docs/badges/license.svg)](LICENSE)
+
+Praxis 提供一套 Codex 設計流程，可用於新介面、既有網站精修，以及符合專案風格的 HTML/SVG 圖解。
 
 ## 快速上手
 
@@ -46,6 +50,8 @@ python3 skills/praxis-design-system/scripts/shortlist.py museum-gallery --mode l
 | 圖解類型、排版規格與範例 | Diagram Design |
 | 瀏覽器行為、相容性與備援 | Google Modern Web Guidance |
 | 設計參考的研究方法 | Refero |
+
+### 查詢圖解
 
 可用 ID 查閱完整紀錄。以 `diagrams/swimlane` 為例，會顯示泳道圖規格，以及淺色、深色和編輯式範例的路徑。
 
